@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/acnh-villager-search/static/css/main.3667da9c.chunk.css",
-    "main.js": "/acnh-villager-search/static/js/main.d98bf8ea.chunk.js",
-    "main.js.map": "/acnh-villager-search/static/js/main.d98bf8ea.chunk.js.map",
-    "runtime-main.js": "/acnh-villager-search/static/js/runtime-main.8505d55c.js",
-    "runtime-main.js.map": "/acnh-villager-search/static/js/runtime-main.8505d55c.js.map",
-    "static/js/2.3f061cc8.chunk.js": "/acnh-villager-search/static/js/2.3f061cc8.chunk.js",
-    "static/js/2.3f061cc8.chunk.js.map": "/acnh-villager-search/static/js/2.3f061cc8.chunk.js.map",
-    "index.html": "/acnh-villager-search/index.html",
-    "static/css/main.3667da9c.chunk.css.map": "/acnh-villager-search/static/css/main.3667da9c.chunk.css.map",
-    "static/js/2.3f061cc8.chunk.js.LICENSE.txt": "/acnh-villager-search/static/js/2.3f061cc8.chunk.js.LICENSE.txt"
+    "main.css": "/ACNH-Villager-Search/static/css/main.3667da9c.chunk.css",
+    "main.js": "/ACNH-Villager-Search/static/js/main.d98bf8ea.chunk.js",
+    "main.js.map": "/ACNH-Villager-Search/static/js/main.d98bf8ea.chunk.js.map",
+    "runtime-main.js": "/ACNH-Villager-Search/static/js/runtime-main.e785d38e.js",
+    "runtime-main.js.map": "/ACNH-Villager-Search/static/js/runtime-main.e785d38e.js.map",
+    "static/js/2.3f061cc8.chunk.js": "/ACNH-Villager-Search/static/js/2.3f061cc8.chunk.js",
+    "static/js/2.3f061cc8.chunk.js.map": "/ACNH-Villager-Search/static/js/2.3f061cc8.chunk.js.map",
+    "index.html": "/ACNH-Villager-Search/index.html",
+    "static/css/main.3667da9c.chunk.css.map": "/ACNH-Villager-Search/static/css/main.3667da9c.chunk.css.map",
+    "static/js/2.3f061cc8.chunk.js.LICENSE.txt": "/ACNH-Villager-Search/static/js/2.3f061cc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8505d55c.js",
+    "static/js/runtime-main.e785d38e.js",
     "static/js/2.3f061cc8.chunk.js",
     "static/css/main.3667da9c.chunk.css",
     "static/js/main.d98bf8ea.chunk.js"
